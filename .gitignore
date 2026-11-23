@@ -1,0 +1,4 @@
+data/
+chunks.json
+embeddings.npy
+__pycache__/
